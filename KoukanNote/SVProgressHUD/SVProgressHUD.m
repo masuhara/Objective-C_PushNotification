@@ -479,6 +479,7 @@ static const CGFloat SVProgressHUDParallaxDepthPoints = 10;
         }
     }
     
+    
     if(notification) {
         [UIView animateWithDuration:animationDuration
                               delay:0
