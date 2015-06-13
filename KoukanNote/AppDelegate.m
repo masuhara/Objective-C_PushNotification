@@ -121,7 +121,6 @@
             return;
         }
         
-        
         localNotification.fireDate = [[NSDate date] dateByAddingTimeInterval:1.5];
         localNotification.timeZone = [NSTimeZone defaultTimeZone];
         //localTimeZone → defaultTimeZone
